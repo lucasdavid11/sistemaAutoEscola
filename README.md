@@ -4,17 +4,17 @@
 
 Sistema ETL de arquivo .csv para verificação de próxima aula e marcação de presença.
 
-- Caso haja aula no dia:
+Caso haja aula no dia:
 
-O sistema informa que há aula no dia e pergunta se o usuário deseja marcar presença.
+- O sistema informa que há aula no dia e pergunta se o usuário deseja marcar presença.
 
--Caso haja aula, mas nao no dia:
+Caso haja aula, mas nao no dia:
 
-O sistema informa a data da próxima aula.
+- O sistema informa a data da próxima aula.
 
-- Caso não hajam mais aulas:
+Caso não hajam mais aulas:
 
-O sistema informa que não há mais aulas restantes.
+- O sistema informa que não há mais aulas restantes.
 
 # Technologies used
 
